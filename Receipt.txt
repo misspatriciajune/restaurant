@@ -1,0 +1,15 @@
+*****************************************
+                 RECEIPT!                
+*****************************************
+Current Cash: 938728.0119999929
+Number of tables owned: 7
+Number of current diners: 1
+Number of serving completed: 11
+Total maintenance cost: 21.93800000000006
+Average earning per minute: 564.955
+Sales per dish type
+ Meat: 599.96 Fish: 479.96 Vegetables: 169.98
+Total kilograms sold per dish type
+ Meat: 0.4532 Fish: 0.2624 Vegetables: 0.4424
+Number of customers queued: 19
+*****************************************
